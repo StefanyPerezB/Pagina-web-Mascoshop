@@ -1,0 +1,26 @@
+.foto
+{
+    height: 100px;
+    border-radius: 10px;
+}
+
+.letras
+{
+    background: #91D4E9;
+    border-radius: 10px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+}
+
+.banner
+{
+    width: 300px;
+    margin-top: 40px;
+  
+}
+
+.imagen
+{
+    width: 140px;
+}
+
